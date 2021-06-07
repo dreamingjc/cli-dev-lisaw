@@ -1,0 +1,21 @@
+{
+  "name": "@imooc-cli-dev-lisaw/utils",
+  "version": "1.0.0",
+  "description": "imooc-cli-dev-lisaw utils",
+  "author": "Lisa <w_jucao@126.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Run testing from core\" "
+  },
+  "dependencies": {
+  }
+}
